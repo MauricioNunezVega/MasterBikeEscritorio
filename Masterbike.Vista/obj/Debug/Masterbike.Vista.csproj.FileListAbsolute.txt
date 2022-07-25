@@ -1,0 +1,169 @@
+C:\Users\mauro\source\repos\Masterbike.Vista\obj\Debug\Masterbike.Vista.csproj.AssemblyReference.cache
+C:\Users\mauro\source\repos\Masterbike.Vista\obj\Debug\Masterbike.Vista.Form1.resources
+C:\Users\mauro\source\repos\Masterbike.Vista\obj\Debug\Masterbike.Vista.Properties.Resources.resources
+C:\Users\mauro\source\repos\Masterbike.Vista\obj\Debug\Masterbike.Vista.csproj.GenerateResource.cache
+C:\Users\mauro\source\repos\Masterbike.Vista\obj\Debug\Masterbike.Vista.csproj.CoreCompileInputs.cache
+C:\Users\styfm\Downloads\Masterbike.Vista\obj\Debug\Masterbike.Vista.csproj.AssemblyReference.cache
+C:\Users\styfm\Downloads\Masterbike.Vista\obj\Debug\Masterbike.Vista.Form3.resources
+C:\Users\styfm\Downloads\Masterbike.Vista\obj\Debug\Masterbike.Vista.IniciarSesion.resources
+C:\Users\styfm\Downloads\Masterbike.Vista\obj\Debug\Masterbike.Vista.Properties.Resources.resources
+C:\Users\styfm\Downloads\Masterbike.Vista\obj\Debug\Masterbike.Vista.csproj.GenerateResource.cache
+C:\Users\styfm\Downloads\Masterbike.Vista\obj\Debug\Masterbike.Vista.csproj.CoreCompileInputs.cache
+C:\Users\styfm\Downloads\Masterbike.Vista\bin\Debug\Masterbike.Vista.exe.config
+C:\Users\styfm\Downloads\Masterbike.Vista\bin\Debug\Masterbike.Vista.exe
+C:\Users\styfm\Downloads\Masterbike.Vista\bin\Debug\Masterbike.Vista.pdb
+C:\Users\styfm\Downloads\Masterbike.Vista\obj\Debug\Masterbike.Vista.exe
+C:\Users\styfm\Downloads\Masterbike.Vista\obj\Debug\Masterbike.Vista.pdb
+C:\Users\styfm\Downloads\Masterbike.Vista\obj\Debug\Masterbike.Vista.SubirArchivo.resources
+C:\Users\styfm\Downloads\Masterbike.Vista\obj\Debug\Masterbike.Vista.Inicio.resources
+D:\Proyectos Visual Studio\Masterbike.Vista\bin\Debug\Masterbike.Vista.exe.config
+D:\Proyectos Visual Studio\Masterbike.Vista\bin\Debug\Masterbike.Vista.exe
+D:\Proyectos Visual Studio\Masterbike.Vista\bin\Debug\Masterbike.Vista.pdb
+D:\Proyectos Visual Studio\Masterbike.Vista\obj\Debug\Masterbike.Vista.csproj.AssemblyReference.cache
+D:\Proyectos Visual Studio\Masterbike.Vista\obj\Debug\Masterbike.Vista.SubirArchivo.resources
+D:\Proyectos Visual Studio\Masterbike.Vista\obj\Debug\Masterbike.Vista.Inicio.resources
+D:\Proyectos Visual Studio\Masterbike.Vista\obj\Debug\Masterbike.Vista.IniciarSesion.resources
+D:\Proyectos Visual Studio\Masterbike.Vista\obj\Debug\Masterbike.Vista.Properties.Resources.resources
+D:\Proyectos Visual Studio\Masterbike.Vista\obj\Debug\Masterbike.Vista.csproj.GenerateResource.cache
+D:\Proyectos Visual Studio\Masterbike.Vista\obj\Debug\Masterbike.Vista.csproj.CoreCompileInputs.cache
+D:\Proyectos Visual Studio\Masterbike.Vista\obj\Debug\Masterbike.Vista.exe
+D:\Proyectos Visual Studio\Masterbike.Vista\obj\Debug\Masterbike.Vista.pdb
+D:\Proyectos Visual Studio\Masterbike.Vista\obj\Debug\Masterbike.Vista.VerDatos.resources
+D:\Proyectos Visual Studio\Masterbike.Vista\bin\Debug\Masterbike.Controlador.dll
+D:\Proyectos Visual Studio\Masterbike.Vista\bin\Debug\Masterbike.Modelo.dll
+D:\Proyectos Visual Studio\Masterbike.Vista\bin\Debug\Masterbike.Controlador.pdb
+D:\Proyectos Visual Studio\Masterbike.Vista\bin\Debug\Masterbike.Modelo.pdb
+D:\Proyectos Visual Studio\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Masterbike.Vista.exe.config
+D:\Proyectos Visual Studio\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Masterbike.Vista.exe
+D:\Proyectos Visual Studio\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Masterbike.Vista.pdb
+D:\Proyectos Visual Studio\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Masterbike.Controlador.dll
+D:\Proyectos Visual Studio\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Masterbike.Modelo.dll
+D:\Proyectos Visual Studio\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Masterbike.Controlador.pdb
+D:\Proyectos Visual Studio\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Masterbike.Modelo.pdb
+D:\Proyectos Visual Studio\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.csproj.AssemblyReference.cache
+D:\Proyectos Visual Studio\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.SubirArchivo.resources
+D:\Proyectos Visual Studio\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.VerDatos.resources
+D:\Proyectos Visual Studio\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.Inicio.resources
+D:\Proyectos Visual Studio\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.IniciarSesion.resources
+D:\Proyectos Visual Studio\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.Properties.Resources.resources
+D:\Proyectos Visual Studio\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.csproj.GenerateResource.cache
+D:\Proyectos Visual Studio\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.csproj.CoreCompileInputs.cache
+D:\Proyectos Visual Studio\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.exe
+D:\Proyectos Visual Studio\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.pdb
+D:\Proyectos Visual Studio\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.Mensaje.resources
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Masterbike.Vista.exe.config
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Masterbike.Vista.exe
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Masterbike.Vista.pdb
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Masterbike.Controlador.dll
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Masterbike.Modelo.dll
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Masterbike.Controlador.pdb
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Masterbike.Modelo.pdb
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.csproj.AssemblyReference.cache
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.Mensaje.resources
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.SubirArchivo.resources
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.VerDatos.resources
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.Inicio.resources
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.IniciarSesion.resources
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.Properties.Resources.resources
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.csproj.GenerateResource.cache
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.csproj.CoreCompileInputs.cache
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.exe
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.pdb
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Masterbike.Modelo.dll.config
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.Buffers.dll
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.Memory.dll
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.Text.Json.dll
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.ValueTuple.dll
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Masterbike.Controlador.dll.config
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.Buffers.xml
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.Memory.xml
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.Text.Json.xml
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.ValueTuple.xml
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.csproj.CopyComplete
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Masterbike.Vista.exe.config
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Masterbike.Vista.exe
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Masterbike.Vista.pdb
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Masterbike.Controlador.dll
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.Buffers.dll
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.Memory.dll
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.Text.Json.dll
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.ValueTuple.dll
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Masterbike.Modelo.dll
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Masterbike.Controlador.pdb
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Masterbike.Controlador.dll.config
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.Buffers.xml
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.Memory.xml
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.Text.Json.xml
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\System.ValueTuple.xml
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Masterbike.Modelo.pdb
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\bin\Debug\Masterbike.Modelo.dll.config
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.csproj.AssemblyReference.cache
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.csproj.SuggestedBindingRedirects.cache
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.Mensaje.resources
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.Inicio.resources
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.IniciarSesion.resources
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.Properties.Resources.resources
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.csproj.GenerateResource.cache
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.csproj.CoreCompileInputs.cache
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.csproj.CopyComplete
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.exe
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Vista\obj\Debug\Masterbike.Vista.pdb
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\bin\Debug\Masterbike.Vista.exe.config
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\bin\Debug\Masterbike.Vista.exe
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\bin\Debug\Masterbike.Vista.pdb
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\bin\Debug\Masterbike.Controlador.dll
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\bin\Debug\System.Buffers.dll
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\bin\Debug\System.Memory.dll
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\bin\Debug\System.Text.Json.dll
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\bin\Debug\System.ValueTuple.dll
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\bin\Debug\Masterbike.Modelo.dll
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\bin\Debug\Masterbike.Controlador.pdb
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\bin\Debug\Masterbike.Controlador.dll.config
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\bin\Debug\System.Buffers.xml
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\bin\Debug\System.Memory.xml
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\bin\Debug\System.Text.Json.xml
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\bin\Debug\System.ValueTuple.xml
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\bin\Debug\Masterbike.Modelo.pdb
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\bin\Debug\Masterbike.Modelo.dll.config
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\obj\Debug\Masterbike.Vista.csproj.AssemblyReference.cache
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\obj\Debug\Masterbike.Vista.csproj.SuggestedBindingRedirects.cache
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\obj\Debug\Masterbike.Vista.Mensaje.resources
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\obj\Debug\Masterbike.Vista.Inicio.resources
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\obj\Debug\Masterbike.Vista.IniciarSesion.resources
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\obj\Debug\Masterbike.Vista.Properties.Resources.resources
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\obj\Debug\Masterbike.Vista.csproj.GenerateResource.cache
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\obj\Debug\Masterbike.Vista.csproj.CoreCompileInputs.cache
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\obj\Debug\Masterbike.Vista.csproj.CopyComplete
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\obj\Debug\Masterbike.Vista.exe
+C:\Users\styfm\Documents\Proyectos\Masterbike.Vista\obj\Debug\Masterbike.Vista.pdb

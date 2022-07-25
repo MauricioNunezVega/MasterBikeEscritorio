@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0a8d9136-3116-4933-ab0e-6be851240bfc": {
+      "ProjectGuid": "0a8d9136-3116-4933-ab0e-6be851240bfc",
+      "DisplayName": "Masterbike.Vista",
+      "ColorIndex": 0
+    },
+    "7b429bad-940a-4ebb-be26-fb750cef488b": {
+      "ProjectGuid": "7b429bad-940a-4ebb-be26-fb750cef488b",
+      "DisplayName": "Masterbike.Controlador",
+      "ColorIndex": 1
+    },
+    "abb1095c-377a-4f97-890f-15668cc53bec": {
+      "ProjectGuid": "abb1095c-377a-4f97-890f-15668cc53bec",
+      "DisplayName": "Masterbike.Modelo",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

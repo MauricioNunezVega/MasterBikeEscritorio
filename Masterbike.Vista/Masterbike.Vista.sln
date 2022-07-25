@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masterbike.Vista", "Masterbike.Vista.csproj", "{0A8D9136-3116-4933-AB0E-6BE851240BFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masterbike.Controlador", "..\Masterbike.Controlador\Masterbike.Controlador.csproj", "{7B429BAD-940A-4EBB-BE26-FB750CEF488B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masterbike.Modelo", "..\Masterbike.Modelo\Masterbike.Modelo.csproj", "{ABB1095C-377A-4F97-890F-15668CC53BEC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MasterBikeEscritorio", "..\MasterBikeEscritorio\MasterBikeEscritorio.vdproj", "{B44E2E0E-A8C9-4666-8310-49F7AD62F73E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A8D9136-3116-4933-AB0E-6BE851240BFC}.Debug|Any CPU.ActiveCfg = Release|x64
+		{0A8D9136-3116-4933-AB0E-6BE851240BFC}.Debug|Any CPU.Build.0 = Release|x64
+		{0A8D9136-3116-4933-AB0E-6BE851240BFC}.Debug|x64.ActiveCfg = Release|x64
+		{0A8D9136-3116-4933-AB0E-6BE851240BFC}.Debug|x64.Build.0 = Release|x64
+		{0A8D9136-3116-4933-AB0E-6BE851240BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A8D9136-3116-4933-AB0E-6BE851240BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A8D9136-3116-4933-AB0E-6BE851240BFC}.Release|x64.ActiveCfg = Release|x64
+		{0A8D9136-3116-4933-AB0E-6BE851240BFC}.Release|x64.Build.0 = Release|x64
+		{7B429BAD-940A-4EBB-BE26-FB750CEF488B}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{7B429BAD-940A-4EBB-BE26-FB750CEF488B}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{7B429BAD-940A-4EBB-BE26-FB750CEF488B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7B429BAD-940A-4EBB-BE26-FB750CEF488B}.Debug|x64.Build.0 = Debug|Any CPU
+		{7B429BAD-940A-4EBB-BE26-FB750CEF488B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B429BAD-940A-4EBB-BE26-FB750CEF488B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B429BAD-940A-4EBB-BE26-FB750CEF488B}.Release|x64.ActiveCfg = Release|Any CPU
+		{7B429BAD-940A-4EBB-BE26-FB750CEF488B}.Release|x64.Build.0 = Release|Any CPU
+		{ABB1095C-377A-4F97-890F-15668CC53BEC}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB1095C-377A-4F97-890F-15668CC53BEC}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{ABB1095C-377A-4F97-890F-15668CC53BEC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{ABB1095C-377A-4F97-890F-15668CC53BEC}.Debug|x64.Build.0 = Debug|Any CPU
+		{ABB1095C-377A-4F97-890F-15668CC53BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB1095C-377A-4F97-890F-15668CC53BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABB1095C-377A-4F97-890F-15668CC53BEC}.Release|x64.ActiveCfg = Release|Any CPU
+		{ABB1095C-377A-4F97-890F-15668CC53BEC}.Release|x64.Build.0 = Release|Any CPU
+		{B44E2E0E-A8C9-4666-8310-49F7AD62F73E}.Debug|Any CPU.ActiveCfg = Debug
+		{B44E2E0E-A8C9-4666-8310-49F7AD62F73E}.Debug|x64.ActiveCfg = Debug
+		{B44E2E0E-A8C9-4666-8310-49F7AD62F73E}.Release|Any CPU.ActiveCfg = Release
+		{B44E2E0E-A8C9-4666-8310-49F7AD62F73E}.Release|x64.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B2B5592-E67E-4338-BB05-6473AA8A73E0}
+	EndGlobalSection
+EndGlobal

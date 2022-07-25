@@ -1,0 +1,111 @@
+D:\Proyectos Visual Studio\Masterbike.Controlador\obj\Debug\Masterbike.Controlador.csproj.AssemblyReference.cache
+D:\Proyectos Visual Studio\Masterbike.Controlador\obj\Debug\Masterbike.Controlador.csproj.CoreCompileInputs.cache
+D:\Proyectos Visual Studio\Masterbike.Controlador\bin\Debug\Masterbike.Controlador.dll
+D:\Proyectos Visual Studio\Masterbike.Controlador\bin\Debug\Masterbike.Controlador.pdb
+D:\Proyectos Visual Studio\Masterbike.Controlador\bin\Debug\Masterbike.Modelo.dll
+D:\Proyectos Visual Studio\Masterbike.Controlador\bin\Debug\Masterbike.Modelo.pdb
+D:\Proyectos Visual Studio\Masterbike.Controlador\obj\Debug\Masterbike.Controlador.dll
+D:\Proyectos Visual Studio\Masterbike.Controlador\obj\Debug\Masterbike.Controlador.pdb
+D:\Proyectos Visual Studio\Masterbike.Controlador\obj\Debug\Masterbike.Controlador.csproj.CopyComplete
+D:\Proyectos Visual Studio\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\Masterbike.Controlador.dll
+D:\Proyectos Visual Studio\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\Masterbike.Controlador.pdb
+D:\Proyectos Visual Studio\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\Masterbike.Modelo.dll
+D:\Proyectos Visual Studio\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\Masterbike.Modelo.pdb
+D:\Proyectos Visual Studio\MasterBikeEscritorio\Masterbike.Controlador\obj\Debug\Masterbike.Controlador.csproj.AssemblyReference.cache
+D:\Proyectos Visual Studio\MasterBikeEscritorio\Masterbike.Controlador\obj\Debug\Masterbike.Controlador.csproj.CoreCompileInputs.cache
+D:\Proyectos Visual Studio\MasterBikeEscritorio\Masterbike.Controlador\obj\Debug\Masterbike.Controlador.dll
+D:\Proyectos Visual Studio\MasterBikeEscritorio\Masterbike.Controlador\obj\Debug\Masterbike.Controlador.pdb
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\Masterbike.Controlador.dll
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\Masterbike.Controlador.pdb
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\Masterbike.Modelo.dll
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\Masterbike.Modelo.pdb
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\obj\Debug\Masterbike.Controlador.csproj.AssemblyReference.cache
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\obj\Debug\Masterbike.Controlador.csproj.CoreCompileInputs.cache
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\obj\Debug\Masterbike.Controlador.dll
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\obj\Debug\Masterbike.Controlador.pdb
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\Masterbike.Modelo.dll.config
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\EntityFramework.dll
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\EntityFramework.xml
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\Masterbike.Controlador.dll.config
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.Buffers.dll
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.Memory.dll
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.Text.Json.dll
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.ValueTuple.dll
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.Buffers.xml
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.Memory.xml
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.Text.Json.xml
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.ValueTuple.xml
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\styfm\Desktop\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\obj\Debug\Masterbike.Controlador.csproj.CopyComplete
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\Masterbike.Controlador.dll.config
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\Masterbike.Controlador.dll
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\Masterbike.Controlador.pdb
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\EntityFramework.dll
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\Masterbike.Modelo.dll
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.Buffers.dll
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.Memory.dll
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.Text.Json.dll
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.ValueTuple.dll
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\Masterbike.Modelo.pdb
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\Masterbike.Modelo.dll.config
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\EntityFramework.xml
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.Buffers.xml
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.Memory.xml
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.Text.Json.xml
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\bin\Debug\System.ValueTuple.xml
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\obj\Debug\Masterbike.Controlador.csproj.AssemblyReference.cache
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\obj\Debug\Masterbike.Controlador.csproj.CoreCompileInputs.cache
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\obj\Debug\Masterbike.Controlador.csproj.CopyComplete
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\obj\Debug\Masterbike.Controlador.dll
+C:\Users\styfm\OneDrive - Fundacion Instituto Profesional Duoc UC\Proyecto portafolio de título\MasterBikeEscritorio\Masterbike.Controlador\obj\Debug\Masterbike.Controlador.pdb
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\bin\Debug\Masterbike.Controlador.dll.config
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\bin\Debug\Masterbike.Controlador.dll
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\bin\Debug\Masterbike.Controlador.pdb
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\bin\Debug\EntityFramework.dll
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\bin\Debug\Masterbike.Modelo.dll
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\bin\Debug\System.Buffers.dll
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\bin\Debug\System.Memory.dll
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\bin\Debug\System.Text.Json.dll
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\bin\Debug\System.ValueTuple.dll
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\bin\Debug\Masterbike.Modelo.pdb
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\bin\Debug\Masterbike.Modelo.dll.config
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\bin\Debug\EntityFramework.xml
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\bin\Debug\System.Buffers.xml
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\bin\Debug\System.Memory.xml
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\bin\Debug\System.Text.Json.xml
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\bin\Debug\System.ValueTuple.xml
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\obj\Debug\Masterbike.Controlador.csproj.AssemblyReference.cache
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\obj\Debug\Masterbike.Controlador.csproj.CoreCompileInputs.cache
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\obj\Debug\Masterbike.Controlador.csproj.CopyComplete
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\obj\Debug\Masterbike.Controlador.dll
+C:\Users\styfm\Documents\Proyectos\Masterbike.Controlador\obj\Debug\Masterbike.Controlador.pdb

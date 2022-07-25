@@ -1,0 +1,15 @@
+C:\Users\mauro\source\repos\Masterbike.Vista\bin\x64\Debug\Masterbike.Vista.exe.config
+C:\Users\mauro\source\repos\Masterbike.Vista\bin\x64\Debug\Masterbike.Vista.exe
+C:\Users\mauro\source\repos\Masterbike.Vista\bin\x64\Debug\Masterbike.Vista.pdb
+C:\Users\mauro\source\repos\Masterbike.Vista\bin\x64\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\mauro\source\repos\Masterbike.Vista\obj\x64\Debug\Masterbike.Vista.RegistrarUsuarios.resources
+C:\Users\mauro\source\repos\Masterbike.Vista\obj\x64\Debug\Masterbike.Vista.Form2.resources
+C:\Users\mauro\source\repos\Masterbike.Vista\obj\x64\Debug\Masterbike.Vista.Form3.resources
+C:\Users\mauro\source\repos\Masterbike.Vista\obj\x64\Debug\Masterbike.Vista.Ventana.resources
+C:\Users\mauro\source\repos\Masterbike.Vista\obj\x64\Debug\Masterbike.Vista.IniciarSesion.resources
+C:\Users\mauro\source\repos\Masterbike.Vista\obj\x64\Debug\Masterbike.Vista.Properties.Resources.resources
+C:\Users\mauro\source\repos\Masterbike.Vista\obj\x64\Debug\Masterbike.Vista.csproj.GenerateResource.cache
+C:\Users\mauro\source\repos\Masterbike.Vista\obj\x64\Debug\Masterbike.Vista.csproj.CoreCompileInputs.cache
+C:\Users\mauro\source\repos\Masterbike.Vista\obj\x64\Debug\Masterbike.Vista.csproj.CopyComplete
+C:\Users\mauro\source\repos\Masterbike.Vista\obj\x64\Debug\Masterbike.Vista.exe
+C:\Users\mauro\source\repos\Masterbike.Vista\obj\x64\Debug\Masterbike.Vista.pdb
